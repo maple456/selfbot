@@ -70,7 +70,7 @@ def sendMessageWithMention(to, mid):
         logError(error)
 def helpmessage():
     helpMessage = """╔═════════════
-╠♥ ✿✿✿ 十香の特製Bot ✿✿✿ ♥
+╠♥ ✿✿✿ 楓糖の特製Bot ✿✿✿ ♥
 ╠SR 設定已讀點
 ╠LR 查看誰已讀
 ╠Nk @ 標註踢人
@@ -82,8 +82,8 @@ wait = {
     "share":False,
     "sender" :{},
 }
-admin =['ud5ff1dff426cf9e3030c7ac2a61512f0','ua10c2ad470b4b6e972954e1140ad1891',clMID]
-owners = ["ua10c2ad470b4b6e972954e1140ad1891","ud5ff1dff426cf9e3030c7ac2a61512f0"]
+admin =['uec6d62c3e4a61f033332bc1d86133e49','ud9964664052659ba468d55de6df025be',clMID]
+owners = ["uec6d62c3e4a61f033332bc1d86133e49","ud9964664052659ba468d55de6df025be"]
 #if clMID not in owners:
 #    python = sys.executable
 #    os.execl(python, python, *sys.argv)
